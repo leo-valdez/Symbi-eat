@@ -63,5 +63,5 @@ App for Symbiosis Canteen center where Students can eat , refresh and energize w
 2. Vendor to Stduent Change points.
 ```
 
-## update - ADD name
+## Update - ADD name
 1.Kartik bhushan
