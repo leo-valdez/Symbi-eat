@@ -60,8 +60,8 @@ App for Symbiosis Canteen center where Students can eat , refresh and energize w
 
 ## Future Scope - 
 ```
-1. Transcation Points-----
-2. Vendor to Stduent Change points--
+1. Transcation Points
+2. Vendor to Stduent Change points
 ```
 
 ## Update - ADD name
