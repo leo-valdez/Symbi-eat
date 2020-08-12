@@ -5,6 +5,7 @@ App for Symbiosis Canteen center where Students can eat , refresh and energize w
 ```
 1.Java - Front and Backend
 2.Firebase - Database
+3. Andriod Studio - IDE for front and backend.
 ```
 
 ## Modules -
@@ -59,6 +60,12 @@ App for Symbiosis Canteen center where Students can eat , refresh and energize w
 
 ## Future Scope - 
 ```
-1. Transcation Points.
-2. Vendor to Stduent Change points.
+1. Transcation Points
+2. Vendor to Stduent Change points
 ```
+
+## Update - ADD name
+
+1.Kartik bhushan
+2.Gaurav Joshi
+3.Ayushi Agrawal
