@@ -49,7 +49,7 @@ App for Symbiosis Canteen center where Students can eat , refresh and energize w
 
 2.Menu - All the Items to a particular Food court will be displayed with the Item availabilty and Prep Time.
 
-3.Order Cart - Eat here , Takeaway - After a student decides the order he wants he/she can view his/her cart and choose to "EAT THERE or TAKEAWAY".
+3.Order Cart - After a student decides the order he wants he/she can view his/her cart and choose to "EAT THERE or TAKEAWAY".
 
 4.Payment - Payment to an Order can be processed via "Google Pay" , "Phone Pe"  or "CASH". 
 
